@@ -6,11 +6,12 @@ part time by Kevin Secrist and myself (mostly Kevin).
 ---
 
 # The Proposal
-We begin to transition some of our test environments to a docker based setup
+We begin to transition some of our test environments to a docker based setup.
 	
 --- 
 
 # Product Benefits
++ Prevent catastrophic dev impact when orchestration fails. 
 + Potential reduction in Rackspace Cloud Spend as we reduce the load on Orchestration
 + Multiple options available for automated tests, reduces impact of a failure with either system
 
